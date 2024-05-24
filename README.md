@@ -1,5 +1,5 @@
 # Solidity Course smart contract
-group member       ID Numbers:
+#group member       #ID Numbers:
 Firaol Desalegn   ID ugr/22948/13
 Moa Disesa        ID ugr/22511/13
 Gedisa Edosa      ID ugr/22868/13
